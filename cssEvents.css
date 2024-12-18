@@ -166,6 +166,7 @@ footer {
     /* Vertically center items */
     flex-wrap: wrap;
     /* Allows wrapping on smaller screens */
+    position:relative;
 }
 
 #footer-text {
