@@ -159,7 +159,8 @@ footer {
     padding: 0.5rem 0.5rem;
     width: auto;
     margin: 0;
-/*     display: flex; */
+    bottom: 0;
+    display: flex;
     justify-content: space-between;
     /* Align items at both ends */
     align-items: center;
