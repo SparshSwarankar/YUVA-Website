@@ -8,7 +8,6 @@ body {
     color: #333;
     /* Ensure text is visible on the light pink background */
     margin: 0;
-    margin-bottom:0;
     padding: 0;
 }
 
@@ -167,7 +166,6 @@ footer {
     /* Vertically center items */
     flex-wrap: wrap;
     /* Allows wrapping on smaller screens */
-    position:relative;
 }
 
 #footer-text {
@@ -227,6 +225,7 @@ footer {
     gap: 15px;
     padding: 40px;
     justify-items: center;
+    min-height:calc(100vh - 50px);
 }
 
 .event-card {
