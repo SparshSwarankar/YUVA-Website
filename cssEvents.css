@@ -8,6 +8,7 @@ body {
     color: #333;
     /* Ensure text is visible on the light pink background */
     margin: 0;
+    margin-bottom:0;
     padding: 0;
 }
 
@@ -158,7 +159,7 @@ footer {
     /* White text */
     padding: 0.5rem 0.5rem;
     width: auto;
-    margin: 0;
+    margin-bottom: 0;
     display: flex;
     justify-content: space-between;
     /* Align items at both ends */
